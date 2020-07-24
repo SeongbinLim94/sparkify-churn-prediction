@@ -27,4 +27,5 @@ In this research, 4 classifiers are tested to predict churn. Naive Bayes, and Li
   
   
 ## Acknowledgements
-The data set for this project is provided by Udacity for DSND data capstone project. If possible, conduct research in cloud, such as AWS or IBM Watson Studio.
+The data set for this project is provided by Udacity for DSND data capstone project. If possible, conduct research in cloud, such as AWS or IBM Watson Studio. For reading detailed research, follow the blog post link below:  
+https://medium.com/@lim.andrew1/churn-prediction-8707395ddb3b
